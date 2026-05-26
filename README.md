@@ -1,10 +1,10 @@
 # DOOGEE X7 Pro AI Revival
 
+[English](README.md) | [Русский](README.ru.md)
+
 Old Android hardware, restored with Codex as a technical copilot.
 
 This repository documents a practical experiment: an almost unusable DOOGEE X7 Pro was recovered, rooted, cleaned up, and turned into a script-controlled test phone. The phone is still old hardware, but it is no longer a dead drawer device.
-
-[Русская версия](README.ru.md)
 
 ## What Was Done
 
@@ -114,4 +114,3 @@ Key rules from this experiment:
 The phone did not become a flagship. It became something more useful for this experiment: a recovered, rooted, documented, script-controlled Android test device.
 
 Codex was used as the technical copilot for research, command planning, log interpretation, reversible package changes, script creation, and documentation.
-
